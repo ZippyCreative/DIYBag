@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: skin
-  m_Shader: {fileID: 4800000, guid: 39863a74ba34d9a47a33d8789651486d, type: 3}
+  m_Shader: {fileID: 4800000, guid: ef31dc83421c32442bce0d0ac628dedc, type: 3}
   m_ShaderKeywords: BACKSOLID BOTTOMSOLID FRONTSOLID LEFTSOLID RIGHTSOLID TOPSOLID
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -120,8 +120,8 @@ Material:
     - _RampThresholdOtherLights: 0.5
     - _RealtimeShadow: 0
     - _RimEnable: 0
-    - _RimMax: 1
-    - _RimMin: 0.944
+    - _RimMax: 2
+    - _RimMin: 0.617
     - _RimPower: 1
     - _Rotation_B: 0
     - _Rotation_D: 0
@@ -168,7 +168,7 @@ Material:
     m_Colors:
     - _AOColor: {r: 1, g: 1, b: 1, a: 1}
     - _AmbientColor: {r: 0, g: 0, b: 0, a: 0}
-    - _Color: {r: 0.8490566, g: 0.7827415, b: 0.5639017, a: 1}
+    - _Color: {r: 1, g: 0.7809767, b: 0.73018867, a: 1}
     - _Color1_B: {r: 1, g: 0.78823537, b: 0.6313726, a: 1}
     - _Color1_D: {r: 1, g: 0.78823537, b: 0.6313726, a: 1}
     - _Color1_F: {r: 1, g: 0.78823537, b: 0.6313726, a: 1}
@@ -196,11 +196,11 @@ Material:
     - _GradientYStartPos_G: {r: 0, g: 0, b: 0, a: 0}
     - _GradientYStartPos_L: {r: 0, g: 0, b: 0, a: 0}
     - _GradientYStartPos_R: {r: 0, g: 0, b: 0, a: 0}
-    - _HColor: {r: 0.85098046, g: 0.7843138, b: 0.5647059, a: 1}
+    - _HColor: {r: 1, g: 0.7803922, b: 0.7294118, a: 1}
     - _LMColor: {r: 1, g: 1, b: 1, a: 1}
-    - _RimColor: {r: 1, g: 1, b: 1, a: 1}
-    - _SColor: {r: 0.85098046, g: 0.7843138, b: 0.5647059, a: 1}
+    - _RimColor: {r: 0.754717, g: 0.43920937, b: 0.36596653, a: 1}
+    - _SColor: {r: 1, g: 0.7294118, b: 0.6666667, a: 1}
     - _ShadowColor: {r: 0.1, g: 0.1, b: 0.1, a: 1}
-    - _SpecColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _SpecColor: {r: 1, g: 0.7294118, b: 0.6666667, a: 1}
     - _TintColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []

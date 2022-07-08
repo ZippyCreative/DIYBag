@@ -37,13 +37,15 @@ private Color mouseOverColor = Color.blue;
     }
  
     void Update()
-    {
-        if (dragging)
+{
+                if (dragging)
         {
             Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
             Vector3 rayPoint = ray.GetPoint(distance);
             transform.position = rayPoint + startDist;
         }
+
+        
     }
 
 }

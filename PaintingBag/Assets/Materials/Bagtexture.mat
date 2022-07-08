@@ -48,7 +48,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTexture:
-        m_Texture: {fileID: 2800000, guid: 99538e5f40708494d8ce8a8757cc41d3, type: 3}
+        m_Texture: {fileID: 2800000, guid: 57d45026edc2a41fdb70a7e7e43c689c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -100,7 +100,7 @@ Material:
     - _LMPower: 0
     - _LmapBlendingMode: 0
     - _LmapEnable: 0
-    - _MainTexturePower: 0.181
+    - _MainTexturePower: 0
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
@@ -130,15 +130,15 @@ Material:
     - _ShowBack: 0
     - _ShowBottom: 0
     - _ShowColorCorrection: 0
-    - _ShowCustomShading: 0
+    - _ShowCustomShading: 1
     - _ShowFog: 0
     - _ShowFront: 0
     - _ShowGlobalGradientSettings: 0
     - _ShowLMap: 0
     - _ShowLeft: 0
-    - _ShowRight: 0
+    - _ShowRight: 1
     - _ShowTexture: 1
-    - _ShowTop: 0
+    - _ShowTop: 1
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
@@ -155,7 +155,7 @@ Material:
     - _Color1_F: {r: 1, g: 1, b: 1, a: 1}
     - _Color1_L: {r: 1, g: 1, b: 1, a: 1}
     - _Color1_R: {r: 1, g: 1, b: 1, a: 1}
-    - _Color1_T: {r: 1, g: 1, b: 1, a: 1}
+    - _Color1_T: {r: 0.8113208, g: 0.74981564, b: 0.7079922, a: 1}
     - _Color2_B: {r: 1, g: 1, b: 1, a: 1}
     - _Color2_D: {r: 1, g: 1, b: 1, a: 1}
     - _Color2_F: {r: 1, g: 1, b: 1, a: 1}
